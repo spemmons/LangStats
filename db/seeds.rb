@@ -1,0 +1,2 @@
+Category.reset_seeds
+Element.reset_seeds

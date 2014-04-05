@@ -1,0 +1,466 @@
+---
+- url: http://www.gutenberg.org/cache/epub/74/pg74.txt
+  start_after: Produced by David Widger
+  end_before: End of the Project Gutenberg Ebook
+- url: http://www.gutenberg.org/cache/epub/76/pg76.txt
+  start_after: Produced by David Widger
+  end_before: End of the Project Gutenberg EBook
+- url: http://www.gutenberg.org/cache/epub/1342/pg1342.txt
+  start_after: Produced by Anonymous Volunteers
+  end_before: End of the Project Gutenberg EBook
+- url: http://www.gutenberg.org/cache/epub/1661/pg1661.txt
+  start_after: Produced by an anonymous Project Gutenberg volunteer
+  end_before: End of the Project Gutenberg EBook
+- url: http://www.gutenberg.org/cache/epub/11/pg11.txt
+  start_after: ! '*** START OF THIS PROJECT GUTENBERG EBOOK'
+  end_before: End of Project Gutenberg
+- url: http://www.gutenberg.org/cache/epub/5200/pg5200.txt
+  start_after: Translated by David Wyllie
+  end_before: End of the Project Gutenberg EBook
+- url: http://www.gutenberg.org/cache/epub/27827/pg27827.txt
+  start_after: without further comments
+  end_before: CONCLUDING REMARKS.
+- url: http://www.gutenberg.org/cache/epub/1232/pg1232.txt
+  start_after: Produced by John Bickers
+  end_before: End of the Project Gutenberg EBook
+- url: http://www.gutenberg.org/cache/epub/768/pg768.txt
+  start_after: ccx074@pglaf.org
+  end_before: ! '***END OF THE PROJECT GUTENBERG EBOOK'
+- url: http://www.gutenberg.org/cache/epub/84/pg84.txt
+  start_after: HTML version by Al Haines
+  end_before: End of the Project Gutenberg EBook
+- url: http://www.gutenberg.org/cache/epub/844/pg844.txt
+  start_after: email ccx074@pglaf.org
+  end_before: ! '***END OF THE PROJECT GUTENBERG EBOOK'
+- filename: datafiles/en_20k_leagues_under_the_sea.txt
+  title: TWENTY THOUSAND LEAGUES UNDER THE SEA
+  author: JULES VERNE
+  first_line: 260
+  last_line: 12372
+- filename: datafiles/en_a_childs_garden_of_verses.txt
+  author: Robert Louis Stevenson
+  title: A Child's Garden of Verses
+  first_line: 256
+  last_line: 2023
+- filename: datafiles/en_a_childs_history_of_england.txt
+  title: A Child's History of England
+  author: Charles Dickens
+  first_line: 261
+  last_line: 15945
+- filename: datafiles/en_a_christmas_carol.txt
+  title: A CHRISTMAS CAROL
+  author: Charles Dickens
+  first_line: 232
+  last_line: 4021
+- filename: datafiles/en_a_kidnapped_santa_claus.txt
+  title: A Kidnapped Santa Claus
+  author: L. Frank Baum
+  first_line: 255
+  last_line: 668
+- filename: datafiles/en_a_letter_concerning_toleration.txt
+  title: A LETTER CONCERNING TOLERATION
+  author: John Locke
+  first_line: 2
+  last_line: 1851
+- filename: datafiles/en_a_tale_of_two_cities.txt
+- filename: datafiles/en_alladin_and_the_wonderful_lamp.txt
+  author: 
+  title: There once lived a poor tailor, who had a son called Aladdin,
+  first_line: 245
+  last_line: 716
+- filename: datafiles/en_an_essay_concerning_human_understanding.txt
+  title: AN ESSAY CONCERNING HUMAN UNDERSTANDING
+  author: John Locke
+  first_line: 2
+  last_line: 26142
+- filename: datafiles/en_anna_karenina.txt
+  title: Anna Karenina
+  author: Leo Tolstoy
+  first_line: 266
+  last_line: 42839
+- filename: datafiles/en_around_the_world_in_80_days.txt
+  title: AROUND THE WORLD IN EIGHTY DAYS
+  author: Jules Verne
+  first_line: 249
+  last_line: 8176
+- filename: datafiles/en_beasts_of_tarzan.txt
+  title: The Beasts of Tarzan
+  author: Edgar Rice Burroughs
+  first_line: 243
+  last_line: 8256
+- filename: datafiles/en_beatiful_stories_from_shakespeare.txt
+  first_line: 269
+  last_line: 7582
+  title: Beautiful Stories from Shakespeare
+  author: E. Nesbit
+- filename: datafiles/en_capitan_blood.txt
+  first_line: 294
+  last_line: 14055
+  title: CAPTAIN BLOOD
+  author: Rafael Sabatini
+- filename: datafiles/en_concerning_civil_government_second_essay.txt
+  first_line: 2
+  last_line: 4894
+  title: CONCERNING CIVIL GOVERNMENT, SECOND ESSAY
+  author: John Locke
+- filename: datafiles/en_david_copperfield.txt
+  first_line: 256
+  last_line: 40823
+  title: DAVID COPPERFIELD
+  author: Charles Dickens
+- filename: datafiles/en_dead_souls.txt
+  first_line: 699
+  last_line: 15192
+  title: DEAD SOULS
+  author: Nikolai Vasilievich Gogol
+- filename: datafiles/en_don_quixote.txt
+  first_line: 1796
+  last_line: 41150
+  title: 
+  author: Miquel de Cervantes
+- filename: datafiles/en_dorothy_and_the_wizard_in_oz.txt
+  first_line: 255
+  last_line: 5511
+  title: Dorothy and the Wizard in Oz
+  author: L. Frank Baum
+- filename: datafiles/en_dracula.txt
+  first_line: 256
+  last_line: 17010
+  title: DRACULA
+  author: Bram Stoker
+- filename: datafiles/en_dubliners.txt
+  first_line: 361
+  last_line: 8611
+  title: Dubliner
+  author: 
+- filename: datafiles/en_enoch_arden.txt
+  title: ENOCH ARDEN,
+  first_line: 270
+  last_line: 3778
+  author: Alfred Tennyson
+- filename: datafiles/en_essays_in_radical_empiricism.txt
+  title: Essays in Radical Empiricism
+  author: 
+  first_line: 2
+  last_line: 
+- filename: datafiles/en_fables.txt
+  title: FABLES
+  first_line: 261
+  last_line: 2114
+  author: Robert L. Stevenson*
+- filename: datafiles/en_five_children_and_it.txt
+  first_line: 256
+  last_line: 6806
+  title: FIVE CHILDREN AND IT
+  author: E. Nesbit
+- filename: datafiles/en_fundamental_principles_of_the_metaphysics_of_morals.txt
+  first_line: 2
+  last_line: 2934
+  title: FUNDAMENTAL PRINCIPLES OF THE METAPHYSIC OF MORALS
+  author: Immanuel Kant
+- filename: datafiles/en_glinda_of_oz.txt
+  first_line: 261
+  last_line: 6014
+  title: GLINDA OF OZ
+  author: L. Frank Baum
+- filename: datafiles/en_gullivers_travels.txt
+  first_line: 267
+  last_line: 10668
+  title: Gulliver's Travels into Several Remote Nations of the World
+  author: Jonathan Swift
+- filename: datafiles/en_hamlet.txt
+  first_line: 381
+  last_line: 
+  title: The Tragedie of Hamlet
+  author: William Shakespeare
+- filename: datafiles/en_heart_of_darkness.txt
+  first_line: 255
+  last_line: 4330
+  title: HEART OF DARKNESS
+  author: Joseph Conrad
+- filename: datafiles/en_house_of_seven_gables.txt
+  first_line: 258
+  last_line: 11180
+  title: THE HOUSE OF THE SEVEN GABLES
+  author: NATHANIEL HAWTHORNE
+- filename: datafiles/en_how_to_tell_stories_to_children.txt
+  first_line: 265
+  last_line: 8569
+  title: HOW TO TELL STORIES
+  author: Sara Cone Bryant
+- filename: datafiles/en_huckleberry_finn.txt
+  first_line: 33
+  last_line: 12008
+  title: Adventure
+  author: Mark Twain (Samuel Clemen
+- filename: datafiles/en_introduction_to_the_metaphysic_of_morals.txt
+  title: INTRODUCTION TO THE METAPHYSIC OF MORALS
+  first_line: 2
+  last_line: 939
+  author: Immanuel Kant
+- filename: datafiles/en_ivanhoe.txt
+  first_line: 226
+  last_line: 27267
+  title: IVANHOE.
+  author: Sir Walter Scott
+- filename: datafiles/en_jane_eyre.txt
+  first_line: 270
+  last_line: 21951
+  title: 
+  author: Charlotte Bronte
+- filename: datafiles/en_kidnapped.txt
+  first_line: 251
+  last_line: 9405
+  title: KIDNAPPED
+  author: Robert Louis Stevenson
+- filename: datafiles/en_leaves_of_grass.txt
+  first_line: 269
+  last_line: 17705
+  title: LEAVES OF GRASS
+  author: Walt Whitman
+- filename: datafiles/en_leviathan.txt
+  first_line: 2
+  last_line: 20285
+  title: LEVIATHAN
+  author: Thomas Hobbes
+- filename: datafiles/en_little_lord_fauntleroy.txt
+  first_line: 264
+  last_line: 7115
+  title: LITTLE LORD FAUNTLEROY
+  author: Frances Hodgson Burnett
+- filename: datafiles/en_little_women.txt
+  title: LITTLE WOMEN
+  author: Louisa May Alcott
+  first_line: 255
+  last_line: 21800
+- filename: datafiles/en_macbeth.txt
+  title: The Tragedie of Macbeth
+  author: William Shakespeare
+  first_line: 382
+  last_line: 3666
+- filename: datafiles/en_many_voices.txt
+  title: Many Voices
+  author: E. Nesbit
+  first_line: 366
+  last_line: 2755
+- filename: datafiles/en_miss_or_mrs.txt
+  title: Miss or Mrs.?
+  author: Wilkie Collins
+  first_line: 269
+  last_line: 4085
+- filename: datafiles/en_moll_flanders.txt
+  title: Moll Flanders
+  author: Daniel Defoe
+  first_line: 253
+  last_line: 13527
+- filename: datafiles/en_on_the_origin_of_species.txt
+  title: On the Origin of Species
+  author: Charles Darwin
+  first_line: 266
+  last_line: 15048
+- filename: datafiles/en_ozma_of_oz.txt
+  title: Ozma of Oz
+  author: L. Frank Baum
+  first_line: 256
+  last_line: 5211
+- filename: datafiles/en_penelopes_english_experiences.txt
+  title: Penelope's English Experiences
+  author: Kate Douglas Wiggin
+  first_line: 268
+  last_line: 3783
+- filename: datafiles/en_penelopes_experiences_in_scotland.txt
+  title: Penelope's Experiences in Scotland
+  author: Kate Douglas Wiggin
+  first_line: 264
+  last_line: 7192
+- filename: datafiles/en_penelopes_postscripts.txt
+  title: Penelope's Postscripts
+  author: Kate Douglas Wiggin
+  first_line: 291
+  last_line: 3835
+- filename: datafiles/en_peter_pan.txt
+- filename: datafiles/en_return_of_tarzan.txt
+  title: The Return Of Tarzan
+  author: Edgar Rice Burroughs
+  first_line: 236
+  last_line: 11160
+- filename: datafiles/en_rinkitink_in_oz.txt
+  title: RINKITINK IN OZ
+  author: L. Frank Baum
+  first_line: 260
+  last_line: 7142
+- filename: datafiles/en_robinson_crusoe.txt
+  title: Robinson Crusoe
+  author: Daniel Defoe
+  first_line: 262
+  last_line: 10915
+- filename: datafiles/en_rose_o_the_river.txt
+  title: Rose O' the River
+  author: Kate Douglas Wiggin
+  first_line: 262
+  last_line: 3271
+- filename: datafiles/en_scaramouche.txt
+  title: SCARAMOUCHE
+  author: Rafael Sabatini
+  first_line: 290
+  last_line: 15846
+- filename: datafiles/en_second_treatise_of_government.txt
+  title: SECOND TREATISE OF GOVERNMENT
+  author: IOHN LOCKE
+  first_line: 17
+  last_line: 5637
+- filename: datafiles/en_sense_and_sensibility.txt
+  title: The Project Gutenberg Etext of Sense and Sensibility,
+  author: Jane Austen
+  first_line: 249
+  last_line: 15031
+- filename: datafiles/en_tanglewood_tales.txt
+  title: TANGLEWOOD TALES
+  author: Nathaniel Hawthorne
+  first_line: 267
+  last_line: 7296
+- filename: datafiles/en_tarzan_of_the_apes.txt
+  title: TARZAN of the Apes
+  author: 
+  first_line: 258
+  last_line: 12151
+- filename: datafiles/en_tess_of_the_durbervilles.txt
+  title: Tess of the d'Urbervilles
+  first_line: 246
+  author: Thomas Hardy
+  last_line: 20913
+- filename: datafiles/en_the_adventures_of_robin_hood.txt
+  title: The Merry Adventures of Robin Hood
+  author: Howard Pyle
+  first_line: 263
+  last_line: 11904
+- filename: datafiles/en_the_analysis_of_mind.txt
+  title: The Project Gutenberg Etext of The Analysis of Mind
+  author: Bertrand Russell
+  first_line: 288
+  last_line: 9656
+- filename: datafiles/en_the_apology.txt
+  title: ! '*****The Project Gutenberg Etext of The Apology'
+  author: 
+  first_line: 
+- filename: datafiles/en_the_bobbsey_twins_in_the_country.txt
+  title: THE BOBBSEY TWINS IN THE COUNTRY
+  author: Laura Lee Hope
+  first_line: 260
+  last_line: 5741
+- filename: datafiles/en_the_call_of_the_wild.txt
+  title: The Call of the Wild
+  author: Jack London
+  first_line: 249
+  last_line: 3528
+- filename: datafiles/en_the_complete_poetical_works_of_longfellow.txt
+  title: The Project Gutenberg Etext of The Complete Poems of Longfellow
+  author: 
+  first_line: 282
+  last_line: 63303
+- filename: datafiles/en_the_congo_and_other_poems.txt
+  title: Project Gutenberg's Etext of The Congo & Other Poems,
+  author: Vachel Lindsay
+  first_line: 300
+  last_line: 3968
+- filename: datafiles/en_the_count_of_monte_cristo.txt
+  title: The Count of Monte Cristo
+  author: Alexandre Dumas [Pere]
+  first_line: 260
+  last_line: 62032
+- filename: datafiles/en_the_critique_of_judgement.txt
+  title: THE CRITIQUE OF JUDGEMENT
+  author: Immanuel Kant
+  first_line: 2
+  last_line: 
+- filename: datafiles/en_the_critique_of_practical_reason.txt
+  title: THE CRITIQUE OF PRACTICAL REASON
+  author: Immanuel Kant
+  first_line: 2
+  last_line: 5931
+- filename: datafiles/en_the_critique_of_pure_reason.txt
+  author: Immanuel Kant
+  title: 
+  first_line: 2
+  last_line: 21156
+- filename: datafiles/en_the_emerald_city_of_oz.txt
+  title: The Emerald City of Oz
+  author: L. Frank Baum
+  first_line: 256
+  last_line: 7180
+- filename: datafiles/en_the_importance_of_being_ernest.txt
+  title: 
+  author: 
+  first_line: 
+- filename: datafiles/en_the_iron_heel.txt
+  title: THE IRON HEEL
+  author: Jack London
+  first_line: 268
+  last_line: 10474
+- filename: datafiles/en_the_jungle_book.txt
+  title: THE JUNGLE BOOK
+  author: Rudyard Kipling
+  first_line: 247
+  last_line: 6072
+- filename: datafiles/en_the_lair_of_the_white_worm.txt
+- filename: datafiles/en_the_legend_of_sleepy_hollow.txt
+- filename: datafiles/en_the_life_and_adventures_of_santa_claus.txt
+- filename: datafiles/en_the_lost_princess_of_oz.txt
+- filename: datafiles/en_the_lost_world.txt
+- filename: datafiles/en_the_magic_of_oz.txt
+- filename: datafiles/en_the_marvelous_land_of_oz.txt
+- filename: datafiles/en_the_metaphysical_elements_of_ethics.txt
+- filename: datafiles/en_the_patchwork_girl_of_oz.txt
+- filename: datafiles/en_the_phoenix_and_the_carpet.txt
+- filename: datafiles/en_the_picture_of_dorian_gray.txt
+- filename: datafiles/en_the_poison_belt.txt
+- filename: datafiles/en_the_railway_children.txt
+- filename: datafiles/en_the_raven_and_others.txt
+- filename: datafiles/en_the_rights_of_man.txt
+- filename: datafiles/en_the_road_to_oz.txt
+- filename: datafiles/en_the_scarecrow_of_oz.txt
+- filename: datafiles/en_the_scarlet_pimpernel.txt
+- filename: datafiles/en_the_science_of_right.txt
+- filename: datafiles/en_the_sea_wolf.txt
+- filename: datafiles/en_the_second_jungle_book.txt
+- filename: datafiles/en_the_secret_agent.txt
+- filename: datafiles/en_the_son_of_tarzan.txt
+- filename: datafiles/en_the_story_of_the_amulet.txt
+- filename: datafiles/en_the_swiss_family_robinson.txt
+- filename: datafiles/en_the_three_musketeers.txt
+- filename: datafiles/en_the_tin_woodman_of_oz.txt
+- filename: datafiles/en_the_turn_of_the_screw.txt
+- filename: datafiles/en_the_winters_tale.txt
+- filename: datafiles/en_the_wonderful_wizard_of_oz.txt
+- filename: datafiles/en_the_wouldbegoods.txt
+- filename: datafiles/en_thus_spake_zarathustra.txt
+- filename: datafiles/en_tik-tok_of_oz.txt
+- filename: datafiles/en_tom_swift_among_the_fire_fighters.txt
+- filename: datafiles/en_tom_swift_and_his_aerial_warship.txt
+- filename: datafiles/en_tom_swift_and_his_air_scout.txt
+- filename: datafiles/en_tom_swift_and_his_big_tunnel.txt
+- filename: datafiles/en_tom_swift_and_his_giant_cannon.txt
+- filename: datafiles/en_tom_swift_and_his_sky_racer.txt
+- filename: datafiles/en_tom_swift_and_his_submarine_boat.txt
+- filename: datafiles/en_tom_swift_and_his_undersea_search.txt
+- filename: datafiles/en_tom_swift_and_his_war_tank.txt
+- filename: datafiles/en_tom_swift_and_his_wizard_camera.txt
+- filename: datafiles/en_tom_swift_in_the_land_of_wonders.txt
+- filename: datafiles/en_treasure_island.txt
+- filename: datafiles/en_uncle_toms_cabin.txt
+- filename: datafiles/en_utilitarianism.txt
+- filename: datafiles/en_utopia.txt
+- filename: datafiles/en_white_fang.txt
+- filename: datafiles/en_wuthering_heights.txt
+- url: http://www.gutenberg.org/cache/epub/1497/pg1497.txt
+  title: The Republic
+  author: Plato
+  filename: datafiles/en_the_republic.txt
+  first_line: 31
+  last_line: 24323
+- url: http://www.gutenberg.org/cache/epub/3177/pg3177.txt
+  title: Roughing It
+  author: Mark Twain (Samuel Clemens)
+  filename: datafiles/en_roughing_it.txt
+  first_line: 28
+  last_line: 16574
